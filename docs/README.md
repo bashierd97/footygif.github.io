@@ -1,3 +1,3 @@
-# footygif.github.io
+# FootyGif.me
 
-Test Read ME
+## Your source for footy highlights
